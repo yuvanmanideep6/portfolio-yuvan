@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 const profilePhoto = '/lovable-uploads/cb90b1cc-863c-497b-9eb6-4376382274cf.png';
-import project1Image from '@/assets/project1-ecommerce.jpg';
+import project1Image from '@/assets/project1-fotofam.jpg';
 import project2Image from '@/assets/project2-weather.jpg';
 import project3Image from '@/assets/project3-taskmanager.jpg';
 
@@ -263,13 +263,13 @@ const Index = () => {
               <div className="portfolio-card fade-in-up">
                 <img 
                   src={project1Image} 
-                  alt="E-Commerce Platform" 
+                  alt="FotoFam" 
                   className="img-fluid rounded mb-3"
                   style={{ width: '100%', height: '200px', objectFit: 'cover' }}
                 />
-                <h4 className="text-white mb-3">E-Commerce Platform</h4>
+                <h4 className="text-white mb-3">FotoFam</h4>
                 <p className="text-light mb-4">
-                  A modern e-commerce website with shopping cart, payment integration, and responsive design.
+                  A family photo-sharing app that allows families to share memories under one unified account with secure access.
                 </p>
                 <div className="d-flex gap-2">
                   <a href="https://github.com" className="btn btn-sm btn-portfolio-outline">
