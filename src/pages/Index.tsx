@@ -498,7 +498,7 @@ const Index = () => {
       <footer className="py-4 text-center" style={{ background: 'hsl(var(--dark-bg))' }}>
         <div className="container">
           <p className="text-light mb-0">
-            © 2024 Yuvan Manideep Bheemavarapu. All rights reserved.
+            © 2025 Yuvan Manideep Bheemavarapu. All rights reserved.
           </p>
         </div>
       </footer>
