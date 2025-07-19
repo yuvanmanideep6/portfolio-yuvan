@@ -271,12 +271,16 @@ const Index = () => {
                 <p className="text-light mb-4">
                   A family photo-sharing app that allows families to share memories under one unified account with secure access.
                 </p>
+                <div className="mb-3">
+                  <ul className="text-light mb-0" style={{ listStyle: 'none', padding: 0 }}>
+                    <li style={{ color: 'hsl(var(--main-red))' }}>• Android Studio</li>
+                    <li style={{ color: 'hsl(var(--main-red))' }}>• Firebase</li>
+                    <li style={{ color: 'hsl(var(--main-red))' }}>• Java</li>
+                  </ul>
+                </div>
                 <div className="d-flex gap-2">
                   <a href="https://github.com" className="btn btn-sm btn-portfolio-outline">
                     <i className="fab fa-github me-2"></i>GitHub
-                  </a>
-                  <a href="#" className="btn btn-sm btn-portfolio-primary">
-                    <i className="fas fa-external-link-alt me-2"></i>Live Demo
                   </a>
                 </div>
               </div>
@@ -294,12 +298,16 @@ const Index = () => {
                 <p className="text-light mb-4">
                   An Android expense tracking app for adding/deleting expenses, calculating totals, and setting budget goals.
                 </p>
+                <div className="mb-3">
+                  <ul className="text-light mb-0" style={{ listStyle: 'none', padding: 0 }}>
+                    <li style={{ color: 'hsl(var(--main-red))' }}>• Android Studio</li>
+                    <li style={{ color: 'hsl(var(--main-red))' }}>• Java</li>
+                    <li style={{ color: 'hsl(var(--main-red))' }}>• SQLite</li>
+                  </ul>
+                </div>
                 <div className="d-flex gap-2">
                   <a href="https://github.com" className="btn btn-sm btn-portfolio-outline">
                     <i className="fab fa-github me-2"></i>GitHub
-                  </a>
-                  <a href="#" className="btn btn-sm btn-portfolio-primary">
-                    <i className="fas fa-external-link-alt me-2"></i>Live Demo
                   </a>
                 </div>
               </div>
@@ -317,12 +325,16 @@ const Index = () => {
                 <p className="text-light mb-4">
                   A productivity app for managing tasks and projects with drag-and-drop functionality.
                 </p>
+                <div className="mb-3">
+                  <ul className="text-light mb-0" style={{ listStyle: 'none', padding: 0 }}>
+                    <li style={{ color: 'hsl(var(--main-red))' }}>• React</li>
+                    <li style={{ color: 'hsl(var(--main-red))' }}>• Node.js</li>
+                    <li style={{ color: 'hsl(var(--main-red))' }}>• MongoDB</li>
+                  </ul>
+                </div>
                 <div className="d-flex gap-2">
                   <a href="https://github.com" className="btn btn-sm btn-portfolio-outline">
                     <i className="fab fa-github me-2"></i>GitHub
-                  </a>
-                  <a href="#" className="btn btn-sm btn-portfolio-primary">
-                    <i className="fas fa-external-link-alt me-2"></i>Live Demo
                   </a>
                 </div>
               </div>
