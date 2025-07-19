@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 const profilePhoto = '/lovable-uploads/cb90b1cc-863c-497b-9eb6-4376382274cf.png';
 import project1Image from '@/assets/project1-fotofam.jpg';
-import project2Image from '@/assets/project2-weather.jpg';
+import project2Image from '@/assets/project2-trackit.jpg';
 import project3Image from '@/assets/project3-taskmanager.jpg';
 
 const Index = () => {
@@ -286,13 +286,13 @@ const Index = () => {
               <div className="portfolio-card fade-in-up">
                 <img 
                   src={project2Image} 
-                  alt="Weather App" 
+                  alt="TrackIt" 
                   className="img-fluid rounded mb-3"
                   style={{ width: '100%', height: '200px', objectFit: 'cover' }}
                 />
-                <h4 className="text-white mb-3">Weather App</h4>
+                <h4 className="text-white mb-3">TrackIt</h4>
                 <p className="text-light mb-4">
-                  A responsive weather application with location-based forecasts and beautiful UI animations.
+                  An Android expense tracking app for adding/deleting expenses, calculating totals, and setting budget goals.
                 </p>
                 <div className="d-flex gap-2">
                   <a href="https://github.com" className="btn btn-sm btn-portfolio-outline">
