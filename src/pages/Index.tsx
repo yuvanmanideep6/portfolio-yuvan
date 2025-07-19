@@ -273,9 +273,8 @@ const Index = () => {
                 </p>
                 <div className="mb-3">
                   <ul className="text-light mb-0" style={{ listStyle: 'none', padding: 0 }}>
-                    <li style={{ color: 'hsl(var(--main-red))' }}>• Android Studio</li>
+                    <li style={{ color: 'hsl(var(--main-red))' }}>• HTML/CSS/JS</li>
                     <li style={{ color: 'hsl(var(--main-red))' }}>• Firebase</li>
-                    <li style={{ color: 'hsl(var(--main-red))' }}>• Java</li>
                   </ul>
                 </div>
                 <div className="d-flex gap-2">
