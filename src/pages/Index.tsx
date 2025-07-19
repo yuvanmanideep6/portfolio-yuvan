@@ -484,7 +484,7 @@ const Index = () => {
                   <a href="https://linkedin.com" className="btn btn-portfolio-outline me-3">
                     <i className="fab fa-linkedin"></i>
                   </a>
-                  <a href="https://instagram.com" className="btn btn-portfolio-outline">
+                  <a href="https://instagram.com/yuvanmanideep6" className="btn btn-portfolio-outline">
                     <i className="fab fa-instagram"></i>
                   </a>
                 </div>
