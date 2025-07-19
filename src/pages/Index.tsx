@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import profilePhoto from '@/assets/profile-photo.jpg';
+const profilePhoto = '/lovable-uploads/cb90b1cc-863c-497b-9eb6-4376382274cf.png';
 import project1Image from '@/assets/project1-ecommerce.jpg';
 import project2Image from '@/assets/project2-weather.jpg';
 import project3Image from '@/assets/project3-taskmanager.jpg';
