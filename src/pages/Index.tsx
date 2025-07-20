@@ -392,12 +392,6 @@ const Index = () => {
             </div>
             <div className="col-lg-3 col-md-4 col-6">
               <div className="text-center portfolio-card fade-in-up">
-                <i className="fab fa-git-alt display-4 mb-3" style={{ color: 'hsl(var(--main-red))' }}></i>
-                <h5 className="text-white">Git</h5>
-              </div>
-            </div>
-            <div className="col-lg-3 col-md-4 col-6">
-              <div className="text-center portfolio-card fade-in-up">
                 <i className="fas fa-database display-4 mb-3" style={{ color: 'hsl(var(--main-red))' }}></i>
                 <h5 className="text-white">Database</h5>
               </div>
